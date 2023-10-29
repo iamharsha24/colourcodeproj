@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/colourcodeproj/static/css/main.8c883507.css",
+    "main.js": "/colourcodeproj/static/js/main.b7e76df3.js",
+    "index.html": "/colourcodeproj/index.html",
+    "main.8c883507.css.map": "/colourcodeproj/static/css/main.8c883507.css.map",
+    "main.b7e76df3.js.map": "/colourcodeproj/static/js/main.b7e76df3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c883507.css",
+    "static/js/main.b7e76df3.js"
+  ]
+}
